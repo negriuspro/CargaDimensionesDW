@@ -3,8 +3,6 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-# Configuracion sensible - NUNCA subir al repositorio
-appsettings.json
 
 # User-specific files
 *.rsuser
